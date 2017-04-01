@@ -4,10 +4,15 @@ body {
   background: #F8FCFF;
   color: #4A4A4A;
   font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 a {
   color: #0076FF;
   text-decoration: none;
+  &.-disable {
+    text-decoration: line-through;
+    color: #9B9B9B;
+  }
 }
 .header {
   display: flex;
@@ -38,11 +43,14 @@ a {
     margin-top: 50px;
   }
 }
-
+main {
+  width: 610px;
+  margin: 0 auto;
+}
 .title {
   margin-top: 60px;
   text-align: center;
-  font-size: 48px;
+  font-size: 42px;
   line-height: 60px;
 }
 .what_happened {
@@ -50,4 +58,27 @@ a {
   text-align: center;
   font-size: 18px;
   line-height: 30px;
+  &__emoji {
+    vertical-align: middle;
+  }
+}
+.professions {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+.profession {
+  &__title {
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+}
+
+ul.people {
+  list-style: none;
+  padding: 0;
+  li {
+    font-size: 18px;
+    line-height: 33px;
+  }
 }
