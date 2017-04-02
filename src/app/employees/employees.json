@@ -1,17 +1,36 @@
 [
   {
-    "key": "Development",
+    "name": "Development",
     "employees": [
-      {        
+      {
         "name": "Ivan Miniailenko",
         "job_title": "Software Engineer / Analyst / Data Scientist",
         "description": "I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
         "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
-        "contacts": [
+        "contacts": {
           "CV": "https://drive.google.com/open?id=0B807USxjgg4UYm5kSkJwNS1xTGc",
-          "LinkedIn": "https://www.linkedin.com/in/ivan-miniailenko-462401118/"
-        ]
+          "LinkedIn": "https://www.linkedin.com/in/ivan-miniailenko-462401118/",
+          "E-mail": "mailto:discrete.west@gmail.com"
+        }
+      }
+    ]
+  },
+
+  {
+    "name": "Management",
+    "employees": [
+      {
+        "name": "Andrei Ezhov",
+        "job_title": "Manager",
+        "description": "I'm interested in eCommerce projects, love to improve conversion rates of forms and landing pages. Make hypophyses basing on data and run A/B tests – this is what I'm great at. Also I'm ready to build content strategy which can actually drive sales",
+        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "contacts": {
+          "CV": "https://docs.google.com/document/d/1zU6fgALAX9rpiEsSUpv9bTz-_Y8Vkk1ryU3RhfEdVs0",
+          "LinkedIn": "https://www.linkedin.com/in/andrey-ezhov-89292ba0/",
+          "E-mail": "mailto:aezhov777@gmail.com"
+        }
       }
     ]
   }
+
 ]

@@ -1,11 +1,11 @@
 <template>
   <div class="techs-container">
     <div class="professions">
-      <profession v-for="profession in professions" :profession="profession" :key="profession.key"></profession>
+      <profession v-for="profession in professions" :profession="profession" :key="profession.name"></profession>
     </div>
     <div class="employees">
       <template v-for="profession in professions">
-        <employee v-for="employee in profession.employees" :employee="employee", :key="profession.key"></employee>
+        <employee v-for="employee in profession.employees" :employee="employee" :key="profession.name"></employee>
      </template>
     </div>
   </div>
