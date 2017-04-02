@@ -4,13 +4,14 @@
     "employees": [
       {
         "name": "Ivan Miniailenko",
-        "job_title": "Software Engineer / Analyst / Data Scientist",
-        "description": "I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
+        "job_title": "Software Engineer / Data Analyst / Data Scientist",
+        "description": "Hi! I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
         "photo": "images/users/ivan_miniailenko.png",
         "contacts": {
           "CV": "https://drive.google.com/open?id=0B807USxjgg4UYm5kSkJwNS1xTGc",
+          "Email": "mailto:discrete.west@gmail.com",
           "LinkedIn": "https://www.linkedin.com/in/ivan-miniailenko-462401118/",
-          "Email": "mailto:discrete.west@gmail.com"
+          "Facebook": "https://www.facebook.com/diswest"
         }
       },
       {
@@ -26,7 +27,7 @@
       },
       {
         "name": "Ainur Timerbaev",
-        "job_title": "Data engineer / Fullstack Developer",
+        "job_title": "Data engineer/Fullstack Engineer/Frontend developer",
         "description": "Hello, I’m Data engineer, I’m working with databases and analytics. If you need data driven development, hire me. I will create all from scratch. Also i’m very familiar with frontend development. #bigdata #python #frontend",
         "photo": "images/users/ainur_timerbaev.png",
         "contacts": {
