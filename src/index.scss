@@ -1,4 +1,5 @@
 @import "/normalize.css";
+@import "/mixins.scss";
 body {
   margin: 0;
   background: #F8FCFF;
@@ -20,17 +21,23 @@ a {
   &__block {
     &.-left, &.-right {
       width: 325px;
+      @include mobile {
+        display: none;
+      };
     }
-
     &.-middle {
       display: flex;
       flex-direction: column;
       text-align: center;
       flex: 0 165px;
+      @include mobile {
+        margin: 0 auto;
+      };
     }
     img {
       width: 100%;
     }
+
   }
   &__lang {
     margin-top: 38px;
