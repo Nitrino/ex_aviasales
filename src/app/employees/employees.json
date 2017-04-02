@@ -28,7 +28,7 @@
       {
         "name": "Ainur Timerbaev",
         "job_title": "Data engineer / Fullstack Developer",
-        "description": "Hello, I’m Data engineer, I’m working with databases and analytics. If you need data driven development, hire me and I will create whole data team from scratch. Also i’m very familiar with frontend development. #bigdata #python #frontend",
+        "description": "Hello, I’m Data engineer. I’m working with databases and analytics. If you need data driven development, hire me and I will create whole data team from scratch. Also i’m very familiar with frontend development. #bigdata #python #frontend",
         "photo": "images/users/ainur_timerbaev.png",
         "contacts": {
           "Email": "mailto:hire-me@cucumber.pw",
@@ -72,7 +72,7 @@
       },
       {
         "name": "Roman Salin",
-        "job_title": "Software / Data Engineer",
+        "job_title": "Software/Data Engineer",
         "description": "I'm a software engineer with specialization in development of complex, distributed web applications and services with Python and JavaScript, including various analytical tools. Also I have background in databases and data analysis",
         "photo": "images/users/roman_salin.png",
         "contacts": {
@@ -88,7 +88,6 @@
         "photo": "images/users/petr_stepchenko.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/pstepchenko",
-          "CV": "http://nitrino.io/cv",
           "Facebook": "https://www.facebook.com/pstepchenko",
           "CV": "http://nitrino.io/cv"
         }
@@ -107,7 +106,7 @@
       {
         "name": "Andrey Petrov",
         "job_title": "Backend developer",
-        "description": "I know how to create using Ruby and Python. I'm skilful at and also enthusiastic about back-end, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end also one of my skills.",
+        "description": "I know how to create applications using Ruby and Python. I'm skilful at and also enthusiastic about back-end, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end also one of my skills.",
         "photo": "images/users/andrei_petrov.png",
         "contacts": {
           "Email": "mailto:st.andreii@gmail.com",
@@ -159,7 +158,7 @@
       {
         "name": "Natalia Novikova",
         "job_title": "Ad Operations Manager",
-        "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Traffic ads across a variety of third party.Troubleshoot ad network integrations, finding and solving issues. Experience with Mobile Ads",
+        "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Traffic ads across a variety of third party. Troubleshoot ad network integrations, finding and solving issues. Experience with Mobile Ads",
         "photo": "images/users/natalia_novikova.png",
         "contacts": {
           "CV": "https://docs.google.com/document/d/1k7wq1WcJzxb8aaZEZFbKqG7meltcqMriNW5wqycKMLE/edit",
