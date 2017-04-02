@@ -117,7 +117,7 @@
   },
 
   {
-    "name": "Management",
+    "name": "Other",
     "employees": [
       {
         "name": "Andrei Ezhov",
@@ -129,12 +129,7 @@
           "LinkedIn": "https://www.linkedin.com/in/andrey-ezhov-89292ba0/",
           "E-mail": "mailto:aezhov777@gmail.com"
         }
-      }
-    ]
-  },
-  {
-    "name": "Maketing",
-    "employees": [
+      },
       {
         "name": "Dzmitry Kachanau",
         "job_title": "Performance Marketing Specialist",
@@ -146,13 +141,7 @@
           "E-mail": "mailto:dzmitry_kachanau@outlook.com",
           "Facebook": "https://www.facebook.com/dzmitry.kachanau"
         }
-      }
-    ]
-  },
-  {
-    "name": "Sales",
-    "employees": [
-
+      },
       {
         "name": "Marina Belkova",
         "job_title": "Sales and account manager",
