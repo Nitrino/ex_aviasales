@@ -1,7 +1,7 @@
 <template>
   <div class="title-container">
     <div class="title">
-      We&nbsp;are the ex–part </br>of&nbsp;<a href="https://www.aviasales.ru/">aviasales</a> team and </br>we&nbsp;are looking for a&nbsp;new job
+      We&nbsp;are the ex–part </br>of&nbsp;<a href="https://www.aviasales.ru/?marker=18421.exaviasales">aviasales</a> team and </br>we&nbsp;are looking for a&nbsp;new job
     </div>
     <div class="what_happened">
       <img class="what_happened__emoji" src="images/what_happened.svg">
