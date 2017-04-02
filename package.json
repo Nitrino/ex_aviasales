@@ -2,7 +2,8 @@
   "dependencies": {
     "normalize-scss": "^6.0.0",
     "vue": "^2.1.10",
-    "vue-resource": "^1.2.0"
+    "vue-resource": "^1.2.0",
+    "vue-smooth-scroll": "^1.0.11"
   },
   "devDependencies": {
     "del": "^2.2.2",
