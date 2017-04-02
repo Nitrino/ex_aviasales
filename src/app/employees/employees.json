@@ -87,9 +87,10 @@
         "description": "Full stack разработчик с уклоном в backend. Могу создавать проекты с нуля(проектирование, архитектура) и продолжать проекты любой сложности. Также настрою процессы и помогу управлять командой. Ключевые слова: Remote, Elixir, Ruby.",
         "photo": "images/users/petr_stepchenko.png",
         "contacts": {
+          "Github": "https://github.com/nitrino",
+          "CV": "http://nitrino.io/cv",
           "LinkedIn": "https://www.linkedin.com/in/pstepchenko",
-          "Facebook": "https://www.facebook.com/pstepchenko",
-          "CV": "http://nitrino.io/cv"
+          "Facebook": "https://www.facebook.com/pstepchenko"
         }
       },
       {
