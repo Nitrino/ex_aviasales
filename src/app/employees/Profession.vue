@@ -3,9 +3,7 @@
     <div class="profession__title">{{profession.name}}</div>
     <ul class="people">
       <li v-for="(item, index) in profession.employees">
-        <noindex>
-          <a rel="nofollow" v-bind:href="'#' + item.name" v-smooth-scroll>{{item.name}}</a>
-        </noindex>
+        <a rel="nofollow" v-bind:href="'#' + item.name" v-smooth-scroll>{{item.name}}</a>        
       </li>
     </ul>
   </div>
