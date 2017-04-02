@@ -3,7 +3,7 @@
     <div class="profession__title">{{profession.name}}</div>
     <ul class="people">
       <li v-for="(item, index) in profession.employees">
-        <a href="">{{item.name}}</a>
+        <a v-bind:href="item.name">{{item.name}}</a>
       </li>
     </ul>
   </div>
