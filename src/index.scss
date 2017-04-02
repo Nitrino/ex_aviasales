@@ -159,7 +159,17 @@ ul.people {
     &__links {
       margin-top: 20px;
       font-size: 18px;
+      a {
+        @include mobile {
+          display: block;
+          line-height: 130%;
+        };
+      }
+
       &.-dot {
+        @include mobile {
+          display: none !important;
+        };
         color: #C2C4CD;
         padding: 0 5px;
         &:last-child {
