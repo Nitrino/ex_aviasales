@@ -1,13 +1,22 @@
 <template>
   <header class="header">
-    <p class="header-title">
-      <a href="https://github.com/FountainJS/generator-fountain-webapp" target="_blank" rel="noopener noreferrer">
-        Fountain Generator
-      </a>
-    </p>
-    <p class="header-date">
-      Generated with FountainJS v0.6.0 on Wed Aug 10 2016 10:13:26 GMT+0200 (CEST)
-    </p>
+    <div class="header__block -left">
+      <img src="images/header_left.png">
+    </div>
+    <div class="header__block -middle">
+      <div class="header__lang">
+        <a href="#">RU</a>
+        <a href="#">EN</a>
+      </div>
+      <div class="header__logo">
+        <img src="images/logo.svg">
+        <img class="header__logo__text" src="images/x-aviasales.svg">
+      </div>
+      <!-- <img src="images/header_left.png"> -->
+    </div>
+    <div class="header__block -right">
+      <img src="images/header_right.png">
+    </div>
   </header>
 </template>
 

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Development",
+    "employees": [
+      {        
+        "name": "Ivan Miniailenko",
+        "job_title": "Software Engineer / Analyst / Data Scientist",
+        "description": "I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
+        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "contacts": [
+          "CV": "https://drive.google.com/open?id=0B807USxjgg4UYm5kSkJwNS1xTGc",
+          "LinkedIn": "https://www.linkedin.com/in/ivan-miniailenko-462401118/"
+        ]
+      }
+    ]
+  }
+]
