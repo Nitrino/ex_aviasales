@@ -159,6 +159,9 @@ ul.people {
       &.-dot {
         color: #C2C4CD;
         padding: 0 5px;
+        &:last-child {
+          display: none;
+        }
       }
     }
   }
