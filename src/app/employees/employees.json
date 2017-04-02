@@ -53,7 +53,9 @@
         "description": "Data Analyst, able to write SQL queries and prepare a report, know how to find required numbers and how to understand it, can analyze UI/UX. Very close to Google Analytics, Adwords",
         "photo": "images/users/oleg_kotik.png",
         "contacts": {
+          "CV": "https://goo.gl/rHYNPq",
           "Email": "mailto:oleg.kotik42@gmail.com",
+          "LinkedIn": "https://www.linkedin.com/in/oleg-kotik-288521108/",
           "Facebook": "https://www.facebook.com/Oleg.Kotik.42"
         }
       },
