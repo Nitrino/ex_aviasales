@@ -1,6 +1,6 @@
 [
   {
-    "name": "Development",
+    "name": "Technology",
     "employees": [
       {
         "name": "Ivan Miniailenko",
@@ -120,9 +120,8 @@
       }
     ]
   },
-
   {
-    "name": "Sales",
+    "name": "Maketing",
     "employees": [
       {
         "name": "Dzmitry Kachanau",
@@ -136,7 +135,12 @@
           "Skype": "skype:goldberg.tom",
           "Facebook": "https://www.facebook.com/dzmitry.kachanau"
         }
-      },
+      }
+    ]
+  },
+  {
+    "name": "Sales",
+    "employees": [
 
       {
         "name": "Marina Belkova",
@@ -166,7 +170,7 @@
         "description": "I was working closely with the sales and marketing departments to reach the highest advertising revenue goals in company’s history. Monetisation of traffic, raising indicators for banner advertising, direct sales and strong communication skills are my best friends. Experience of working with agencies, companies and key partners are also included. Due to relocation, at the moment I am looking for a challenging position in the field of sales and business development in Moscow. ",
         "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
         "contacts": {
-          "LinkedIn": "https://www.linkedin.com/in/lizaniki/"          
+          "LinkedIn": "https://www.linkedin.com/in/lizaniki/"
         }
       }
     ]
