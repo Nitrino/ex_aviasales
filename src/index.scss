@@ -129,6 +129,9 @@ ul.people {
   }
   &__photo {
     flex: 0 150px;
+    height: 150px;
+    background: #EDF7FB;
+    border-radius: 100px;
     img {
       width: 100%;
       vertical-align: top;

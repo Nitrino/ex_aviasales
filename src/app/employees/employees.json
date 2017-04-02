@@ -6,7 +6,7 @@
         "name": "Ivan Miniailenko",
         "job_title": "Software Engineer / Analyst / Data Scientist",
         "description": "I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/ivan_miniailenko.png",
         "contacts": {
           "CV": "https://drive.google.com/open?id=0B807USxjgg4UYm5kSkJwNS1xTGc",
           "LinkedIn": "https://www.linkedin.com/in/ivan-miniailenko-462401118/",
@@ -17,7 +17,7 @@
         "name": "Anatoly Kovalchuk",
         "job_title": "Fullstack Engineer",
         "description": "NEED DESCRIPTION",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/anatoly_kovalchuk.png",
         "contacts": {
           "CV": "https://kr00lix.com/cv.html",
           "Skype": "skype:kr000lix",
@@ -28,18 +28,18 @@
         "name": "Ainur Timerbaev",
         "job_title": "Data engineer/Fullstack Engineer/Frontend developer",
         "description": "Hello, I’m Data engineer, I’m working with databases and analytics. If you need data driven development, hire me. I will create all from scratch. Also i’m very familiar with frontend development. #bigdata #python #frontend",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/ainur_timerbaev.png",
         "contacts": {
           "Email": "mailto:hire-me@cucumber.pw",
           "LinkedIn": "https://www.linkedin.com/in/ainur-timerbaev-03221551/",
-          "Github": "https://github.com/nurikk"          
+          "Github": "https://github.com/nurikk"
         }
       },
       {
         "name": "Chernyshov Kirill",
         "job_title": "Clojure(Script) software engineer",
         "description": "NEED DESCRIPTION",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/chernyshov_kirill.png",
         "contacts": {
           "Email": "mailto:delaguardo@gmail.com",
           "LinkedIn": "https://www.linkedin.com/in/delaguardo",
@@ -50,7 +50,7 @@
         "name": "Oleg Kotik",
         "job_title": "Data Analyst",
         "description": "Data Analyst, able to write SQL queries and prepare a report, know how to find required numbers and how to understand it, can analyze UI/UX. Very close to Google Analytics, Adwords",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/oleg_kotik.png",
         "contacts": {
           "Email": "mailto:oleg.kotik42@gmail.com",
           "Facebook": "https://www.facebook.com/Oleg.Kotik.42"
@@ -60,7 +60,7 @@
         "name": "Viktor Dmitriev",
         "job_title": "Frontend developer",
         "description": "My career profile reveals my ability to successfully fulfill the roles of web application engineer, project manager, process improvement expert and client satisfaction specialist. Whether creating unique enhancements to existing websites in a short period of time, or using advanced technical knowledge to design and manage groundbreaking new projects and initiatives, I have always exceeded expectations by providing the highest levels of expertise, service and professionalism.",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/viktor_dmitriev.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/dmitresco/",
           "Email": "mailto:dmitresco@gmail.com",
@@ -71,7 +71,7 @@
         "name": "Roman Salin",
         "job_title": "Software / Data Engineer",
         "description": "I'm a software engineer with specialization in development of complex, distributed web applications and services with Python and JavaScript, including various analytical tools. Also I have background in databases and data analysis",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/roman_salin.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/roman-salin/",
           "Email": "mailto:romansalin1990@gmail.com",
@@ -82,7 +82,7 @@
         "name": "Petr Stepchenko",
         "job_title": "Software Engineer",
         "description": "Full stack разработчик с уклоном в backend. Могу создавать проекты с нуля(проектирование, архитектура) и продолжать проекты любой сложности. Также настрою процессы и помогу управлять командой. Ключевые слова: Remote, Elixir, Ruby.",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/petr_stepchenko.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/pstepchenko",
           "Email": "mailto:nitrinodev@gmail.com",
@@ -94,11 +94,23 @@
         "name": "Timur Kozmenko",
         "job_title": "Data scientist / Product analyst",
         "description": "Full stack data scientist, from problem definition to deployment. Interested in applying my innate curiosity to data of all sorts. I will increase KPI of your company through detailed product and user analysis.",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/timur_kozmenko.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D1%83%D1%80-%D0%BA%D0%BE%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE-0ab64549/?locale=en_US",
           "Email": "mailto:timraell@gmail.com",
           "Skype": "skype:timraell"
+        }
+      },
+      {
+        "name": "Andrey Petrov",
+        "job_title": "Backend developer",
+        "description": "I know how to create using Ruby and Python. I'm skilful at and also enthusiastic about back-end, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end also one of my skills.",
+        "photo": "images/users/andrei_petrov.png",
+        "contacts": {
+          "Email": "mailto:st.andreii@gmail.com",
+          "Facebook": "https://www.facebook.com/standrei",
+          "Skype": "skype:st.andreii",
+          "CV": "https://docs.google.com/document/d/1Cv-7qEh3SWBs-k6qMb8bsd0gjFXiDbvqdcPB1Ko8c2g"
         }
       }
     ]
@@ -111,7 +123,7 @@
         "name": "Andrei Ezhov",
         "job_title": "Manager",
         "description": "I'm interested in eCommerce projects, love to improve conversion rates of forms and landing pages. Make hypophyses basing on data and run A/B tests – this is what I'm great at. Also I'm ready to build content strategy which can actually drive sales",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/andrei_ezhov.png",
         "contacts": {
           "CV": "https://docs.google.com/document/d/1zU6fgALAX9rpiEsSUpv9bTz-_Y8Vkk1ryU3RhfEdVs0",
           "LinkedIn": "https://www.linkedin.com/in/andrey-ezhov-89292ba0/",
@@ -127,7 +139,7 @@
         "name": "Dzmitry Kachanau",
         "job_title": "Performance Marketing Specialist",
         "description": "I focus on marketing campaigns which are covering both acquisition and retention. With deep knowledge of Google Adwords & Analytics I ran various campaigns targeting positive ROI. I’m happy as well to help improve your product, as it’s my strong belief, that without progress on conversion & optimization within the product, there wouldn’t be a great progress on marketing.",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/dzmitry_kachanau.png",
         "contacts": {
           "CV": "https://drive.google.com/file/d/0B0_p8G5mA3v8SEdhNzFHbUkyZGc",
           "LinkedIn": "https://www.linkedin.com/in/dzmitrykachanau/",
@@ -146,7 +158,7 @@
         "name": "Marina Belkova",
         "job_title": "Sales and account manager",
         "description": "NEED DESCRIPTION",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/marina_belkova.png",
         "contacts": {
           "CV": "https://drive.google.com/open?id=0B_FXSr_QOlfZbnM2Sk1jdmNPcjQ",
           "LinkedIn": "https://www.linkedin.com/in/marina-belkova-383a6889/",
@@ -157,7 +169,7 @@
         "name": "Natalia Novikova",
         "job_title": "Ad Operations Manager",
         "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Traffic ads across a variety of third party.Troubleshoot ad network integrations, finding and solving issues. Experience with Mobile Ads",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/natalia_novikova.png",
         "contacts": {
           "CV": "https://docs.google.com/document/d/1k7wq1WcJzxb8aaZEZFbKqG7meltcqMriNW5wqycKMLE/edit",
           "LinkedIn": "https://www.linkedin.com/in/natalya-novikova-7bb33427/",
@@ -168,7 +180,7 @@
         "name": "Elizaveta Nikiforova",
         "job_title": "Sales manager",
         "description": "I was working closely with the sales and marketing departments to reach the highest advertising revenue goals in company’s history. Monetisation of traffic, raising indicators for banner advertising, direct sales and strong communication skills are my best friends. Experience of working with agencies, companies and key partners are also included. Due to relocation, at the moment I am looking for a challenging position in the field of sales and business development in Moscow. ",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk1AAAAJDU3ZjRjOTE4LTYzYmYtNGM5ZC1iNzc1LWM0ZTk3ZGI3Zjc4Nw.jpg",
+        "photo": "images/users/elizaveta_nikiforova.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/lizaniki/"
         }
