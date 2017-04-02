@@ -7,7 +7,6 @@ body {
   font-family: 'Rubik', sans-serif;
   font-weight: lighter;
   font-size: 16px;
-  margin-bottom: 500px;
 }
 a {
   color: #0076FF;
@@ -163,6 +162,40 @@ ul.people {
           display: none;
         }
       }
+    }
+  }
+}
+
+.footer {
+  margin-top: 100px;
+  margin-bottom: 190px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  vertical-align: top;
+  font-size: 24px;
+  &__left, &__right {
+    width: 380px;
+    position: fixed;
+    bottom: 0;
+    img {
+      width: 100%;
+      vertical-align: bottom;
+    }
+  }
+  &__left {
+    left: 0;
+  }
+  &__right {
+    right: 0;
+  }
+
+  &__social {
+    flex: 0 610px;
+    text-align: center;
+    line-height: 36px;
+    &__buttons {
+      margin-top: 30px;
     }
   }
 }
