@@ -5,6 +5,7 @@ body {
   background: #F8FCFF;
   color: #4A4A4A;
   font-family: 'Rubik', sans-serif;
+  font-weight: lighter;
   font-size: 16px;
 }
 a {
@@ -54,14 +55,21 @@ a {
   }
 }
 main {
-  width: 610px;
+  max-width: 610px;
   margin: 0 auto;
+  @include mobile {
+    padding: 0 10px;
+  };
 }
 .title {
   margin-top: 60px;
   text-align: center;
   font-size: 42px;
   line-height: 60px;
+  @include mobile {
+    font-size: 24px;
+    line-height: 36px;
+  };
 }
 .what_happened {
   margin-top: 50px;
@@ -76,8 +84,15 @@ main {
   margin-top: 60px;
   display: flex;
   justify-content: space-between;
+  @include mobile {
+    flex-direction: column;
+    justify-content: center;
+  };
 }
 .profession {
+  @include mobile {
+    text-align: center;
+  };
   &__title {
     text-transform: uppercase;
     font-size: 14px;
