@@ -16,6 +16,9 @@ a {
     text-decoration: line-through;
     color: #9B9B9B;
   }
+  &:hover {
+    color: #EF2850;
+  }
 }
 .header {
   display: flex;
