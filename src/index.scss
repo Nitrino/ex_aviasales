@@ -7,6 +7,7 @@ body {
   font-family: 'Rubik', sans-serif;
   font-weight: lighter;
   font-size: 16px;
+  margin-bottom: 500px;
 }
 a {
   color: #0076FF;
@@ -105,5 +106,54 @@ ul.people {
   li {
     font-size: 18px;
     line-height: 33px;
+  }
+}
+
+.employee {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 7px 0 hsla(0,0%,4%,.05), 3px 27px 54px -34px rgba(0,0,0,.47);
+  transition: .3s box-shadow;
+  will-change: box-shadow;
+  transform: translate3d(0,0,0);
+  &:hover {
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,.07);
+  }
+  &__photo {
+    flex: 0 150px;
+    img {
+      width: 100%;
+      vertical-align: top;
+    }
+  }
+  &__text {
+    flex: 0 320px;
+    &__name {
+      font-size: 36px;
+      line-height: 48px;
+      background: linear-gradient(left, #131ED2, #FF007F);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    &__position {
+      margin-top: 5px;
+      font-size: 14px;
+      text-transform: uppercase;
+    }
+    &__feature {
+      margin-top: 20px;
+      line-height: 24px;
+    }
+    &__links {
+      margin-top: 20px;
+      font-size: 18px;
+      &.-dot {
+        color: #C2C4CD;
+        padding: 0 5px;
+      }
+    }
   }
 }
