@@ -4,8 +4,8 @@
     <main>
       <title-component></title-component>
       <employees></employees>
-      <footer-component></footer-component>
     </main>
+    <footer-component></footer-component>
   </div>
 </template>
 

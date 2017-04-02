@@ -182,7 +182,6 @@ ul.people {
 
 .footer {
   margin-top: 100px;
-  margin-bottom: 190px;
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
@@ -190,24 +189,18 @@ ul.people {
   font-size: 24px;
   &__left, &__right {
     width: 380px;
-    position: fixed;
-    bottom: 0;
+    position: relative;
     img {
       width: 100%;
-      vertical-align: bottom;
+      position: absolute;
+      bottom: 0;
     }
   }
-  &__left {
-    left: 0;
-  }
-  &__right {
-    right: 0;
-  }
-
   &__social {
     flex: 0 610px;
     text-align: center;
     line-height: 36px;
+    padding-bottom: 150px;
     &__buttons {
       margin-top: 30px;
     }
