@@ -15,7 +15,7 @@
         </div>
         <div class="employee__text__links">
           <template v-for="(value, key, index) in employee.contacts">
-            <a v-bind:href="value">{{key}}</a>
+            <a target="_blank" v-bind:href="value">{{key}}</a>
             <span class="employee__text__links -dot">•</span>
          </template>
         </div>
