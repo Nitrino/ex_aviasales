@@ -24,16 +24,16 @@ a {
   justify-content: space-between;
   &__block {
     &.-left, &.-right {
-      width: 325px;
+      max-width: 320px;
       @include mobile {
-        display: none;
+        max-width: 100px;
       };
     }
     &.-middle {
       display: flex;
       flex-direction: column;
       text-align: center;
-      flex: 0 165px;
+      flex: 0 120px;
       @include mobile {
         margin: 0 auto;
       };
@@ -61,7 +61,7 @@ main {
   max-width: 610px;
   margin: 0 auto;
   @include mobile {
-    padding: 0 10px;
+    padding: 0 20px;
   };
 }
 .title {
@@ -70,6 +70,7 @@ main {
   font-size: 42px;
   line-height: 60px;
   @include mobile {
+    margin-top: 40px;
     font-size: 24px;
     line-height: 36px;
   };
@@ -79,6 +80,11 @@ main {
   text-align: center;
   font-size: 18px;
   line-height: 30px;
+  @include mobile {
+    margin-top: 40px;
+    font-size: 16px;
+    line-height: 28px;
+  };
   &__emoji {
     vertical-align: middle;
   }
@@ -88,8 +94,7 @@ main {
   display: flex;
   justify-content: space-between;
   @include mobile {
-    flex-direction: column;
-    justify-content: center;
+    display: none;
   };
 }
 .profession {
@@ -124,15 +129,24 @@ ul.people {
   transition: .3s box-shadow;
   will-change: box-shadow;
   transform: translate3d(0,0,0);
+  @include mobile {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    text-align: center;
+  };
   &:hover {
     box-shadow: 0 3px 10px 0 rgba(#080129,.07);
   }
   &__photo {
     flex: 0 150px;
-    height: 150px;
-    background: #EDF7FB;
-    border-radius: 100px;
-    clip-path: circle(50% at 50% 50%);
+    max-height: 150px;
+    @include mobile {
+      flex: 0 100px;
+      max-height: 100px;
+      max-width: 100px;
+    };
     img {
       width: 100%;
       vertical-align: top;
@@ -140,17 +154,29 @@ ul.people {
   }
   &__text {
     flex: 0 320px;
+    @include mobile {
+      flex: 1;
+      margin-top: 20px;
+    };
     &__name {
       font-size: 36px;
       line-height: 48px;
       background: linear-gradient(left, #131ED2, #FF007F);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
+      @include mobile {
+        font-size: 28px;
+        line-height: 38px;
+      };
     }
     &__position {
       margin-top: 5px;
       font-size: 14px;
       text-transform: uppercase;
+      @include mobile {
+        font-size: 12px;
+        line-height: 14px;
+      };
     }
     &__feature {
       margin-top: 20px;
@@ -159,17 +185,11 @@ ul.people {
     &__links {
       margin-top: 20px;
       font-size: 18px;
-      a {
-        @include mobile {
-          display: block;
-          line-height: 130%;
-        };
-      }
-
+      @include mobile {
+        font-size: 16px;
+        line-height: 28px;
+      };
       &.-dot {
-        @include mobile {
-          display: none !important;
-        };
         color: #C2C4CD;
         padding: 0 5px;
         &:last-child {
@@ -187,6 +207,9 @@ ul.people {
   justify-content: space-between;
   vertical-align: top;
   font-size: 24px;
+  @include mobile {
+    margin-top: 40px;
+  };
   &__left, &__right {
     width: 380px;
     position: relative;
@@ -201,6 +224,11 @@ ul.people {
     text-align: center;
     line-height: 36px;
     padding-bottom: 150px;
+    @include mobile {
+      font-size: 16px;
+      line-height: 28px;
+      padding-bottom: 60px;
+    };
     &__buttons {
       margin-top: 30px;
     }
