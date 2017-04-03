@@ -115,6 +115,14 @@
           "Skype": "skype:st.andreii",
           "CV": "https://docs.google.com/document/d/1Cv-7qEh3SWBs-k6qMb8bsd0gjFXiDbvqdcPB1Ko8c2g"
         }
+      },
+      {
+        "name": "Egor Konov",
+        "job_title": "Backend developer",
+        "description": "NEED DESCRIPTION",
+        "photo": "images/users/egor_konov.png",
+        "contacts": {
+        }
       }
     ]
   },
