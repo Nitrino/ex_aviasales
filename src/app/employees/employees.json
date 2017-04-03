@@ -5,7 +5,7 @@
       {
         "name": "Ivan Miniailenko",
         "job_title": "Software Engineer / Data Analyst / Data Scientist",
-        "description": "Hi! I can build for you analytics over gigabytes of data and billions of events, make highload backend with Python/PHP and tell you many interesting things about machine learning",
+        "description": "Hi! I can build analytics system for you from over gigabytes of data and billions of events, make highload backend using Python/PHP and tell you many interesting things about machine learning",
         "photo": "images/users/ivan_miniailenko.png",
         "contacts": {
           "CV": "https://drive.google.com/open?id=0B807USxjgg4UYm5kSkJwNS1xTGc",
@@ -28,7 +28,7 @@
       {
         "name": "Ainur Timerbaev",
         "job_title": "Data engineer / Fullstack Developer",
-        "description": "Hello, I’m Data engineer. I’m working with databases and analytics. If you need data driven development, hire me and I will create whole data team from scratch. Also i’m very familiar with frontend development. #bigdata #python #frontend",
+        "description": "Hello, I’m a Data engineer. I’m working with databases and analytics. If you need data driven development, hire me and I will create a whole data team from a scratch. Also i’m very familiar with the front-end development. #bigdata #python #frontend",
         "photo": "images/users/ainur_timerbaev.png",
         "contacts": {
           "Email": "mailto:hire-me@cucumber.pw",
@@ -39,7 +39,7 @@
       {
         "name": "Chernyshov Kirill",
         "job_title": "Clojure(Script) software engineer",
-        "description": "Hello there! If you need someone who are able to write Clojure code and knows about Functional Programming - you can find my contacts below.",
+        "description": "Hello there! If you need someone who is capable of writing Clojure code and knows about Functional Programming - then reach me through my contacts down below.",
         "photo": "images/users/chernyshov_kirill.png",
         "contacts": {
           "Email": "mailto:delaguardo@gmail.com",
@@ -50,7 +50,7 @@
       {
         "name": "Oleg Kotik",
         "job_title": "Data Analyst",
-        "description": "Data Analyst, able to write SQL queries and prepare a report, know how to find required numbers and how to understand it, can analyze UI/UX. Very close to Google Analytics, Adwords",
+        "description": "I’m a Data Analyst, able to write SQL queries and generate reports, know how to find required numbers and how to understand it, can analyze UI/UX. Have good understanding of Google Analytics & Adwords",
         "photo": "images/users/oleg_kotik.png",
         "contacts": {
           "CV": "https://goo.gl/rHYNPq",
@@ -73,7 +73,7 @@
       {
         "name": "Roman Salin",
         "job_title": "Software/Data Engineer",
-        "description": "I'm a software engineer with specialization in development of complex, distributed web applications and services with Python and JavaScript, including various analytical tools. Also I have background in databases and data analysis",
+        "description": "I'm a software engineer with specialization in development of complex, distributed web applications and services using Python and JavaScript, including various analytics tools. Also I have background in databases and data analysis",
         "photo": "images/users/roman_salin.png",
         "contacts": {
           "LinkedIn": "https://www.linkedin.com/in/roman-salin/",
@@ -84,7 +84,7 @@
       {
         "name": "Petr Stepchenko",
         "job_title": "Software Engineer",
-        "description": "Full stack разработчик с уклоном в backend. Могу создавать проекты с нуля(проектирование, архитектура) и продолжать проекты любой сложности. Также настрою процессы и помогу управлять командой. Ключевые слова: Remote, Elixir, Ruby.",
+        "description": "I’m a Full stack developer, with specialisation in backend. Can create projects from a scratch (projecting and creating architecture) and to continue developing projects with any level of complexity. I as well can set processes and manage a team. Keywords: Remote, Elixir, Ruby.",
         "photo": "images/users/petr_stepchenko.png",
         "contacts": {
           "Github": "https://github.com/nitrino",
@@ -107,7 +107,7 @@
       {
         "name": "Andrey Petrov",
         "job_title": "Backend developer",
-        "description": "I know how to create applications using Ruby and Python. I'm skilful at and also enthusiastic about back-end, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end also one of my skills.",
+        "description": "I know how to create applications using Ruby and Python. I'm skilful at and also enthusiastic about back-end, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end is also one of my skills.",
         "photo": "images/users/andrei_petrov.png",
         "contacts": {
           "Email": "mailto:st.andreii@gmail.com",
@@ -159,7 +159,7 @@
       {
         "name": "Natalia Novikova",
         "job_title": "Ad Operations Manager",
-        "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Traffic ads across a variety of third party. Troubleshoot ad network integrations, finding and solving issues. Experience with Mobile Ads",
+        "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Running traffic ads across a variety of third parties. Troubleshooting ad network integrations, finding and solving issues. Good experience with Mobile Ads.",
         "photo": "images/users/natalia_novikova.png",
         "contacts": {
           "CV": "https://docs.google.com/document/d/1k7wq1WcJzxb8aaZEZFbKqG7meltcqMriNW5wqycKMLE/edit",
