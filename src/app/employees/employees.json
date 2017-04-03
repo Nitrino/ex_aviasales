@@ -118,10 +118,13 @@
       },
       {
         "name": "Egor Konov",
-        "job_title": "Backend developer",
-        "description": "NEED DESCRIPTION",
+        "job_title": "Fullstack Developer",
+        "description": "Hello there! I'm a fullstack software engineer biased toward backend programming. I can design and create complex backend from a scratch, solve problems on the frontend, generate reports with the key metrics and help with its interpretation.",
         "photo": "images/users/egor_konov.png",
         "contacts": {
+          "LinkedIn": "https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE%D0%B2-458971130/",
+          "Email": "mailto:egorknv@gmail.com",
+          "Telegram": "https://telegram.me/egor_knv"
         }
       }
     ]
