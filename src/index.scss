@@ -229,7 +229,7 @@ ul.people {
     padding-bottom: 150px;
     @include mobile {
       font-size: 16px;
-      line-height: 28px;
+      line-height: 22px;
       padding-bottom: 60px;
     };
     &__buttons {
@@ -244,5 +244,8 @@ ul.people {
     &:hover {
       box-shadow: 0px 5px 15px rgba(#0076FF, 0.5);
     }
+  }
+  #st-1 .st-btn {
+    margin-right: 18px;
   }
 }
