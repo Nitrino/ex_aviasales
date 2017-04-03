@@ -5,8 +5,7 @@
     </div>
     <div class="footer__social">
       <div class="footer__social__text">
-        Тут&nbsp;бы текст аля &laquo;Сделай доброе дело&nbsp;&mdash;</br>
-        расскажи друзьям&raquo; и&nbsp;все такое
+        You weren’t lazy to scroll all down here, don’t&nbsp;be&nbsp;lazy&nbsp;now&nbsp;to&nbsp;share!
       </div>
       <div class="footer__social__buttons sharethis-inline-share-buttons"></div>
     </div>
