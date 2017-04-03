@@ -138,6 +138,9 @@ ul.people {
   };
   &:hover {
     box-shadow: 0 3px 10px 0 rgba(#080129,.07);
+    @include mobile {
+      box-shadow: 0 2px 7px 0 hsla(0,0%,4%,.05), 3px 27px 54px -34px rgba(#080129,.47);
+    };
   }
   &__photo {
     flex: 0 150px;
