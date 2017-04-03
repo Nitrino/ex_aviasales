@@ -92,7 +92,7 @@ main {
 .professions {
   margin-top: 60px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   @include mobile {
     display: none;
   };
