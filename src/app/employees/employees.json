@@ -188,6 +188,18 @@
           "LinkedIn": "https://www.linkedin.com/in/lizaniki/",
           "CV": "https://drive.google.com/file/d/0B77fMPEnSnJxSUdsLU9MdU1xa1U/view?usp=sharing"
         }
+      },
+      {
+        "name": "Danil Ryashentsev",
+        "job_title": "Product Owner",
+        "description": "I know how to create product from idea at the tissue to complete solution regarding business needs. I have strategic mindset, leadership skills helps me to define ideas, bring them to team and organize effective process. With UX/UI and data analysis experience I can create smooth user journey which satisfies all business & user needs.",
+        "photo": "images/users/danil_ryashentsev.png",
+        "contacts": {
+          "Email": "mailto:danil@ryashentsev.com",
+          "LinkedIn": "https://www.linkedin.com/in/danilryashentsev/",
+          "CV": "https://docs.google.com/document/d/1F8gHsNdBkRhLeHtJZtTj7YdL07HIkAbWZwo7g2yYQJI/edit",
+          "Facebook": "https://www.facebook.com/d.ryashentsev"
+        }
       }
     ]
   }
