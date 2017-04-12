@@ -1,5 +1,5 @@
 <template>
-    <div v-bind:id="employee.name" class="employee">
+    <div v-bind:id="employee.name" v-bind:class="[employee.is_hired ? 'hired' : '', 'employee']">
       <div class="employee__photo">
           <img v-bind:src="employee.photo" v-bind:alt="employee.name">
       </div>

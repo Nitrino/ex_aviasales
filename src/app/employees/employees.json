@@ -4,6 +4,7 @@
     "employees": [
       {
         "name": "Ivan Miniailenko",
+        "is_hired": false,
         "job_title": "Software Engineer / Data Analyst / Data Scientist",
         "description": "Hi! I can build analytics system for you from over gigabytes of data and billions of events, make highload backend using Python/PHP and tell you many interesting things about machine learning",
         "photo": "images/users/ivan_miniailenko.png",
@@ -16,6 +17,7 @@
       },
       {
         "name": "Anatoly Kovalchuk",
+        "is_hired": false,
         "job_title": "Fullstack Engineer",
         "description": "Professional web developer. I can create new products and support current one. Have experience in developing services, which provide search and booking engine for flight tickets, online-education and back-end for different online-games.",
         "photo": "images/users/anatoly_kovalchuk.png",
@@ -28,6 +30,7 @@
       },
       {
         "name": "Ainur Timerbaev",
+        "is_hired": false,
         "job_title": "Data engineer / Fullstack Developer",
         "description": "Hello, I’m a Data engineer. I’m working with databases and analytics. If you need data driven development, hire me and I will create a whole data team from a scratch. Also i’m very familiar with the front-end development. #bigdata #python #frontend",
         "photo": "images/users/ainur_timerbaev.png",
@@ -40,6 +43,7 @@
       },
       {
         "name": "Chernyshov Kirill",
+        "is_hired": false,
         "job_title": "Clojure(Script) software engineer",
         "description": "Hello there! If you need someone who is capable of writing Clojure code and knows about Functional Programming - then reach me through my contacts down below.",
         "photo": "images/users/chernyshov_kirill.png",
@@ -51,6 +55,7 @@
       },
       {
         "name": "Oleg Kotik",
+        "is_hired": false,
         "job_title": "Data Analyst",
         "description": "Hello! I can write SQL query, build a report, know how to find required numbers and how to understand it. Have the skill to analyze UI/UX. Very close to Google Analytics, Adwords.",
         "photo": "images/users/oleg_kotik.png",
@@ -63,6 +68,7 @@
       },
       {
         "name": "Viktor Dmitriev",
+        "is_hired": false,
         "job_title": "Frontend developer",
         "description": "My career profile reveals my ability to successfully fulfill the roles of web application engineer, project manager, process improvement expert and client satisfaction specialist. Whether creating unique enhancements to existing websites in a short period of time, or using advanced technical knowledge to design and manage groundbreaking new projects and initiatives, I have always exceeded expectations by providing the highest levels of expertise, service and professionalism.",
         "photo": "images/users/viktor_dmitriev.png",
@@ -74,6 +80,7 @@
       },
       {
         "name": "Roman Salin",
+        "is_hired": false,
         "job_title": "Software/Data Engineer",
         "description": "I'm a software engineer with specialization in development of complex, distributed web applications and services using Python and JavaScript, including various analytics tools. Also I have background in databases and data analysis",
         "photo": "images/users/roman_salin.png",
@@ -85,6 +92,7 @@
       },
       {
         "name": "Petr Stepchenko",
+        "is_hired": false,
         "job_title": "Software Engineer",
         "description": "I’m a Full stack developer, with specialisation in backend. Can create projects from a scratch (projecting and creating architecture) and to continue developing projects with any level of complexity. I as well can set processes and manage a team.",
         "photo": "images/users/petr_stepchenko.png",
@@ -97,6 +105,7 @@
       },
       {
         "name": "Timur Kozmenko",
+        "is_hired": false,
         "job_title": "Data scientist / Product analyst",
         "description": "Full stack data scientist, from problem definition to deployment. Interested in applying my innate curiosity to data of all sorts. I will increase KPI of your company through detailed product and user analysis.",
         "photo": "images/users/timur_kozmenko.png",
@@ -108,6 +117,7 @@
       },
       {
         "name": "Andrey Petrov",
+        "is_hired": false,
         "job_title": "Fullstack developer",
         "description": "I know how to create applications using Ruby and Python. I'm skilful at and also enthusiastic about backend, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end is also one of my skills.",
         "photo": "images/users/andrei_petrov.png",
@@ -120,6 +130,7 @@
       },
       {
         "name": "Egor Konov",
+        "is_hired": false,
         "job_title": "Fullstack Developer",
         "description": "Hello there! I'm a fullstack software engineer biased toward backend programming. I can design and create complex backend from a scratch, solve problems on the frontend, generate reports with the key metrics and help with its interpretation.",
         "photo": "images/users/egor_konov.png",
@@ -137,6 +148,7 @@
     "employees": [
       {
         "name": "Andrei Ezhov",
+        "is_hired": false,
         "job_title": "Product Manager",
         "description": "I'm interested in eCommerce projects, love to improve conversion rates of forms and landing pages. Make hypophyses basing on data and run A/B tests – this is what I'm great at. Also I'm ready to build content strategy which can actually drive sales",
         "photo": "images/users/andrei_ezhov.png",
@@ -148,6 +160,7 @@
       },
       {
         "name": "Dzmitry Kachanau",
+        "is_hired": false,
         "job_title": "Performance Marketing Specialist",
         "description": "I focus on marketing campaigns which are covering both acquisition and retention. With deep knowledge of Google Adwords & Analytics I ran various campaigns targeting positive ROI. I’m happy as well to help improve your product, as it’s my strong belief, that without progress on conversion & optimization within the product, there wouldn’t be a great progress on marketing.",
         "photo": "images/users/dzmitry_kachanau.png",
@@ -160,6 +173,7 @@
       },
       {
         "name": "Marina Belkova",
+        "is_hired": false,
         "job_title": "Sales and account manager",
         "description": "A successful and result-oriented Sales and Marketing Manager with years of experience in digital marketing. I have an excellent work ability to connect new customers with companies through online and optimize advertising potential with using web-analytics tools. For the last 5 years I have worked both with advertising agencies and direct clients for many ad campaigns and projects.",
         "photo": "images/users/marina_belkova.png",
@@ -170,6 +184,7 @@
       },
       {
         "name": "Natalia Novikova",
+        "is_hired": false,
         "job_title": "Ad Operations Manager",
         "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Running traffic ads across a variety of third parties. Troubleshooting ad network integrations, finding and solving issues. Good experience with Mobile Ads.",
         "photo": "images/users/natalia_novikova.png",
@@ -181,6 +196,7 @@
       },
       {
         "name": "Elizaveta Nikiforova",
+        "is_hired": false,
         "job_title": "Sales manager",
         "description": "I was working closely with the sales and marketing departments to reach the highest advertising revenue goals in company’s history. Monetisation of traffic, raising indicators for banner advertising, direct sales and strong communication skills are my best friends. Experience of working with agencies, companies and key partners are also included. Due to relocation, at the moment I am looking for a challenging position in the field of sales and business development in Moscow. ",
         "photo": "images/users/elizaveta_nikiforova.png",
@@ -191,6 +207,7 @@
       },
       {
         "name": "Danil Ryashentsev",
+        "is_hired": false,
         "job_title": "Product Owner",
         "description": "I know how to create product from idea at the tissue to complete solution regarding business needs. I have strategic mindset, leadership skills helps me to define ideas, bring them to team and organize effective process. With UX/UI and data analysis experience I can create smooth user journey which satisfies all business & user needs.",
         "photo": "images/users/danil_ryashentsev.png",
