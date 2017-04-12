@@ -36,7 +36,7 @@ export default {
   },
   created() {
     return this.$http
-      .get('app/employees/employees.json')
+      .get('app/employees/employees.json?v2')
       .then(response => response.json())
       .then(response => {
         this.professions = response.map(profession => {
