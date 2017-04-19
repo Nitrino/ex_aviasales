@@ -188,6 +188,9 @@ ul.people {
     &__links {
       margin-top: 20px;
       font-size: 18px;
+      .hired & {
+        display: none;
+      }
       @include mobile {
         font-size: 16px;
         line-height: 28px;
