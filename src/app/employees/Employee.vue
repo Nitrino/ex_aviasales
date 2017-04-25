@@ -20,6 +20,9 @@
          </template>
         </div>
       </div>
+      <div class="employee__hired_badge">
+        <img src="images/hired-badge.svg">
+      </div>
   </div>
 </template>
 

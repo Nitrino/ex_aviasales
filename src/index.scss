@@ -114,11 +114,23 @@ ul.people {
     font-size: 18px;
     line-height: 33px;
   }
+  a.hired {
+    text-decoration: line-through;
+    color: #9B9B9B;
+  }
+  .people__hired_badge {
+    display: none;
+    vertical-align: middle;
+    &.hired {
+      display: inline;
+    }
+  }
 }
 .employees {
   margin-top: 80px;
 }
 .employee {
+  position: relative;
   margin-bottom: 40px;
   display: flex;
   justify-content: space-between;
@@ -142,6 +154,18 @@ ul.people {
       box-shadow: 0 2px 7px 0 hsla(0,0%,4%,.05), 3px 27px 54px -34px rgba(#080129,.47);
     };
   }
+
+  &__hired_badge {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    .hired & {
+      display: block;
+    }
+  }
+
   &__photo {
     flex: 0 150px;
     max-height: 150px;

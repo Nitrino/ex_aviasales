@@ -43,7 +43,7 @@
       },
       {
         "name": "Chernyshov Kirill",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Clojure(Script) software engineer",
         "description": "Hello there! If you need someone who is capable of writing Clojure code and knows about Functional Programming - then reach me through my contacts down below.",
         "photo": "images/users/chernyshov_kirill.png",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Andrey Petrov",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Fullstack developer",
         "description": "I know how to create applications using Ruby and Python. I'm skilful at and also enthusiastic about backend, analytics, new product development, A/B hypothesis testing. I prefer pure Ruby/Python so as not to hide realisation behind abstractions. Front-end is also one of my skills.",
         "photo": "images/users/andrei_petrov.png",
@@ -160,7 +160,7 @@
       },
       {
         "name": "Dzmitry Kachanau",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Performance Marketing Specialist",
         "description": "I focus on marketing campaigns which are covering both acquisition and retention. With deep knowledge of Google Adwords & Analytics I ran various campaigns targeting positive ROI. I’m happy as well to help improve your product, as it’s my strong belief, that without progress on conversion & optimization within the product, there wouldn’t be a great progress on marketing.",
         "photo": "images/users/dzmitry_kachanau.png",
@@ -184,7 +184,7 @@
       },
       {
         "name": "Natalia Novikova",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Ad Operations Manager",
         "description": "Technical support for advertising. DoubleClick for Publisher is my bible. Running traffic ads across a variety of third parties. Troubleshooting ad network integrations, finding and solving issues. Good experience with Mobile Ads.",
         "photo": "images/users/natalia_novikova.png",
