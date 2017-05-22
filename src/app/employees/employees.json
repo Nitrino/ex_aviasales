@@ -4,7 +4,7 @@
     "employees": [
       {
         "name": "Ivan Miniailenko",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Software Engineer / Data Analyst / Data Scientist",
         "description": "Hi! I can build analytics system for you from over gigabytes of data and billions of events, make highload backend using Python/PHP and tell you many interesting things about machine learning",
         "photo": "images/users/ivan_miniailenko.png",
