@@ -30,7 +30,7 @@
       },
       {
         "name": "Ainur Timerbaev",
-        "is_hired": false,
+        "is_hired": true,
         "job_title": "Data engineer / Fullstack Developer",
         "description": "Hello, I’m a Data engineer. I’m working with databases and analytics. If you need data driven development, hire me and I will create a whole data team from a scratch. Also i’m very familiar with the front-end development. #bigdata #python #frontend",
         "photo": "images/users/ainur_timerbaev.png",
